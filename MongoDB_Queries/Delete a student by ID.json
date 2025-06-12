@@ -1,0 +1,1 @@
+db.students.deleteOne({ _id: ObjectId("STUDENT_ID") });
