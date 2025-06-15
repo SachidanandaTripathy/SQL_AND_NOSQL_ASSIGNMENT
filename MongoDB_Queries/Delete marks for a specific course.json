@@ -1,0 +1,1 @@
+db.marks.deleteMany({ course_id: ObjectId("COURSE_ID") });
